@@ -1,5 +1,5 @@
 body {
-    background-image: url(../images/36.jpg);
+    background-image: url('../images/36.jpg');
     background-size: cover;
     position: relative;
     height: auto;
